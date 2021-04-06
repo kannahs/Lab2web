@@ -12,11 +12,11 @@ terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browse
 Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 ## JAWABAN
 1. Disini saya mencoba menambah properti yang ada pada cheat sheet yang sudah di berikan,yang saya gunakan di sini adalah FLOAT.berikut tampilan gambar yang belum di beri FLOAT :
-![]
+![soal1](https://github.com/kannahs/Lab2web/blob/master/image%20praktikum%202/soal1.PNG?raw=true)
 ketika di beri float dengan input seperti ini
-![]
+![kodesoal1](https://github.com/kannahs/Lab2web/blob/master/image%20praktikum%202/kodesoal1.PNG?raw=true)
 maka tampilan nya akan seperti ini
-![]
+![hasi1](https://github.com/kannahs/Lab2web/blob/master/image%20praktikum%202/hasil1.PNG?raw=true)
 
 
 # PRAKTIKUM
