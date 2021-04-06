@@ -1,1 +1,2 @@
-#Lab2web
+# Lab2web
+PRAKTIKUM
